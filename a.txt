@@ -2,3 +2,6 @@ new dir made locally and used git inti command
 ls -a still not working
 
 new folder in localRepo>newRepo
+
+
+changed on new branch
